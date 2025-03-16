@@ -86,6 +86,8 @@ Hiện tại, được xem là `mã công khai an toàn nhất`.
 | **Khóa công khai:** PU = {e, n} | PU = {7, 187} |
 | **Khóa riêng:** PR = {d, n} | PR = {23, 187} |
 
+![](PUPR.png)
+
 **Mã hóa và Giải mã với RSA**
 
 | |**2. Bob mã hóa với khóa công khai của Alice** | **Ví dụ** |
