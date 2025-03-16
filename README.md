@@ -68,7 +68,7 @@ $2^{10}$ mod 1000 = 24
 Hiện tại, được xem là `mã công khai an toàn nhất`.
 
 **Nguyên lý thuật toán mã hóa RSA**
-> M :plaintext block<br>C :ciphertext block.<br>Khi đó:
+> M: plaintext block<br>C: ciphertext block.<br>Khi đó:
   *C = Mᵉ mod n*  
   *M = Cᵈ mod n = (Mᵉ)ᵈ mod n = Mᵉᵈ mod n*  
 ⇒ **Khóa công khai PU = {e, n}**  
